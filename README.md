@@ -1,5 +1,5 @@
 # KNN-algorithm-on-Amazon-food-fine-reviews
-Implementation of KNN algorithm for classification of positive and negative reviews
+Implementation of KNN algorithm for classification of positive and negative reviews<br>
 Amazon Fine Food Reviews Analysis
 ## Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
